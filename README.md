@@ -28,7 +28,7 @@
 
 
 ![Empty](<./assets/Rofi Powermenu.png>)
-*Rofi Powermenu*  
+*Rofi power menu*  
 
 
 ---
