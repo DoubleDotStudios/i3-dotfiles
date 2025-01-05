@@ -1,11 +1,11 @@
 # i3-Dotfiles
 ---
 
-[Preview](#preview)
-[Dependencies](#dependencies)
-[Extras](#optional-extras)
-[Install](#install)
-[Credits](#credit)
+[Preview](#preview)  
+[Dependencies](#dependencies)  
+[Extras](#optional-extras)  
+[Install](#install)  
+[Credits](#credit)  
 
 ---
 
@@ -13,7 +13,7 @@
 
 ![Empty](<./assets/Blank Workspace.png>)
 > Blank Workspace
-
+<br>
 
 ![Empty](<./assets/Two Windows Open.png>)
 > SolarVim and r/unixporn
