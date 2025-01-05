@@ -1,4 +1,9 @@
 # i3-Dotfiles
+
+> [!IMPORTANT]
+> There may be errors in the [**dependencies**](#dependencies) and [**install**](#install) sections.  
+> If you find any please report them in `issues`.  
+
 ---
 
 [Preview](#preview)  
