@@ -14,17 +14,22 @@
 ![Empty](<./assets/Blank Workspace.png>)
 > Blank Workspace
 
+
 ![Empty](<./assets/Two Windows Open.png>)
 > SolarVim and r/unixporn
+
 
 ![Empty](<./assets/System Fetch.png>)
 > Fastfetch
 
+
 ![Empty](<./assets/Rofi Launcher.png>)
 > Rofi launcher
 
+
 ![Empty](<./assets/Rofi Powermenu.png>)
 > Rofi Powermenu
+
 
 ---
 
