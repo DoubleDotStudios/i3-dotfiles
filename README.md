@@ -12,6 +12,7 @@
 - kitty
 
 - CaskaydiaCove Nerd Font / CascadiaCode
+- Tela Circle Dracula Icons
 
 ---
 
