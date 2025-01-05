@@ -63,6 +63,7 @@
 - \* light **not** lightdm
 - \* flameshot
 - \* nitrogen
+- \* discord
 
 - fastfetch
 
