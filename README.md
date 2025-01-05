@@ -1,25 +1,43 @@
 # i3-Dotfiles
 
-## Install
-
-1. Install the dependencies:
+## Dependencies
 - i3
-- neovim
-- kitty
+
+- rofi
 - picom
 - polybar
 - dunst
-- rofi
-- fastfetch
+
+- neovim
+- kitty
+
 - CaskaydiaCove Nerd Font / CascadiaCode
 
-2. Clone the repo:
+---
+
+## Optional Extras
+> lacking some require modification of the i3 config file, indicated by *
+
+
+- \* thunar
+- \* zen-browser
+- \* light **not** lightdm
+- \* flameshot
+- \* nitrogen
+
+- fastfetch
+
+---
+
+## Install
+
+1. Clone the repo:
 ```console
 git clone https://github.com/DoubleDotStudios/i3-dotfiles
 cd ./i3-dotfiles
 ```
 
-3. Move all the folders except `rofi/local` to `~/.config`:
+2. Move all the folders except `rofi/local` to `~/.config`:
 ```console
 mv ./i3 ~/.config
 mv ./nvim ~/.config
@@ -31,7 +49,7 @@ mv ./fastfetch ~/.config
 mv ./rofi/config ~/.config/rofi
 ```
 
-4. Move `rofi/local` to `~/.local/share/rofi`:
+3. Move `rofi/local` to `~/.local/share/rofi`:
 ```console
 mv ./rofi/local ~/.local/share/rofi
 ```
