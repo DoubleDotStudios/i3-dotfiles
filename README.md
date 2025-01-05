@@ -12,23 +12,23 @@
 ## Preview
 
 ![Empty](<./assets/Blank Workspace.png>)
-> Blank Workspace
-<br>
+*Blank Workspace*  
+
 
 ![Empty](<./assets/Two Windows Open.png>)
-> SolarVim and r/unixporn
+*SolarVim and Zen*  
 
 
 ![Empty](<./assets/System Fetch.png>)
-> Fastfetch
+*Fastfetch*  
 
 
 ![Empty](<./assets/Rofi Launcher.png>)
-> Rofi launcher
+*Rofi launcher*  
 
 
 ![Empty](<./assets/Rofi Powermenu.png>)
-> Rofi Powermenu
+*Rofi Powermenu*  
 
 
 ---
