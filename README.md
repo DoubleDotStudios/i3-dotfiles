@@ -4,7 +4,7 @@
 
 1. Clone the repo:
 ```console
-git clone [insert link here]
+git clone https://github.com/DoubleDotStudios/i3-dotfiles
 ```
 
 2. Install the dependencies:
