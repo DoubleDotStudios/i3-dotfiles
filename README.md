@@ -10,7 +10,7 @@
 [Dependencies](#dependencies)  
 [Extras](#optional-extras)  
 [Install](#install)  
-[Credits](#credit)  
+[Credit](#credit)  
 
 ---
 
@@ -99,7 +99,6 @@ mv ./rofi/local ~/.local/share/rofi
 ---
 
 ### Credit
-> Configs I used and modified 
 
 lactua: [Rofi and Dunst](https://github.com/lactua/dotfiles/tree/master/dots/rofi)  
 astonish-g: [Polybar](https://github.com/astonish-g/i3-everforest-dotfiles/tree/main/.config/polybar)
