@@ -100,5 +100,5 @@ mv ./rofi/local ~/.local/share/rofi
 
 ### Credit
 
-lactua: [Rofi and Dunst](https://github.com/lactua/dotfiles/tree/master/dots/rofi)  
+lactua: [Rofi and Dunst](https://github.com/lactua/dotfiles/tree/master/dots)  
 astonish-g: [Polybar](https://github.com/astonish-g/i3-everforest-dotfiles/tree/main/.config/polybar)
