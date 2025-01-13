@@ -30,7 +30,7 @@ set $term kitty
 set $browser zen-browser
 set $files thunar
 set $wall nitrogen
-set $launcher rofi -show drun -config ~/.config/rofi/qtile.rasi
+set $launcher rofi -show drun -config ~/.config/rofi/i3.rasi
 set $logout rofi -show menu -modi 'menu:~/.local/share/rofi/scripts/rofi-power-menu --choices=logout/suspend/reboot/shutdown' -config ~/.config/rofi/power.rasi
 
 # use Mouse+$mod to drag floating windows to their wanted position
