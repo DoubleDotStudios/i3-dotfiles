@@ -78,7 +78,7 @@ git clone https://github.com/DoubleDotStudios/i3-dotfiles
 cd ./i3-dotfiles
 ```
 
-2. Move all the folders except `rofi/local` to `~/.config`:
+2. Move all directories except `rofi/local` to `~/.config`:
 ```console
 mv ./i3 ~/.config
 mv ./nvim ~/.config
