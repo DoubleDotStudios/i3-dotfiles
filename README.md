@@ -66,6 +66,7 @@
 - \* discord
 
 - fastfetch
+- yazi
 
 ---
 
@@ -87,6 +88,7 @@ mv ./picom ~/.config
 mv ./polybar ~/.config
 mv ./fastfetch ~/.config
 mv ./rofi/config ~/.config/rofi
+mv ./yazi ~/.config/yazi
 ```
 
 3. Move `rofi/local` to `~/.local/share/rofi`:
